@@ -1,0 +1,142 @@
+
+body {background-color: #505050;
+    font-size: 115%;
+}
+div {
+    background: #909090;
+    border-radius: 10px;
+    box-shadow: 12px 12px 5px #252424;
+}
+.page {
+    margin: 0px auto;
+    width: 1500px;
+}
+.header {
+    width:1420px;
+    height:135px;
+    margin-top: 20px;
+    margin-left: 240px;
+}
+#day {
+    width: 420px;
+    height: 110px;
+    margin-top: 15px;
+    margin-left: -220px;
+    float: left;
+}
+#loupe {
+    width: 255px;
+    height: 140px;
+    margin-left: 780px;
+    margin-top: -15px;
+    float: left;
+}
+#reload {
+    float: right;
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    margin-right: 170px;
+}
+#close {
+    float: right;
+    width: 20px;
+    height: 20px;
+    margin-top: -45px;
+    margin-right: 170px;
+}
+.menu {
+    position: relative;
+	width: 140px;
+	height: 425px;
+    top: 20px;
+    left: 40px;
+	float: left;
+}
+#menu_img 
+{
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    margin-top: 10px;
+    float: left;
+}
+#menu2_img 
+{
+    width: 70px;
+    height: 100px;
+    margin-left: 35px;
+    margin-top: 10px;
+    float: left;
+}
+#cluster_img {
+    width: 1010px;
+    height: 600px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.cluster {
+    position: relative;
+    width: 1030px;
+    height: 620px;
+    top: 20px;
+    left: 100px;
+    float: left;
+}
+.menu2 {
+    position: relative;
+	width: 140px;
+	height: 425px;
+    top: 20px;
+    left: 150px;
+	float: left;
+}
+#towel {
+     width: 70px;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 10px;
+    float: left;
+}
+.brick {
+    background: url(pics/brick.jpg) repeat;
+     width: 120px;
+    height: 80px;
+    border-radius: 0px;
+    margin-left: 10px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 0px #252424;
+    float: left;
+}
+.msg_box {
+    position: relative;
+    background-color: #88ff89;
+	width: 500px;
+	height: 150px;
+    padding: 15px;
+    padding-top: 0px;
+    margin-top: -40px;
+    margin-left: 50px;
+	float: left;
+    
+}
+.shadow {
+    text-shadow: 5px 5px 5px red;
+}
+strong {
+    font-family: georgia;  
+    font-weight: lighter;
+    font-size: 185%;
+}
+.button {
+    margin-left: 5px;
+    border: 1px solid grey;
+    border-radius: 1px;
+    height: 20px;
+    width: 75px;
+    background: linear-gradient(#f4eff3, #dcdcdc);
+}
+input[type="text"]{
+    border-top: 1px solid grey;
+    width: 400px;
+}
