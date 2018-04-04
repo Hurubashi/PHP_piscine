@@ -1,0 +1,29 @@
+body {
+	background: url("pics/chemystry.jpg");
+	background-size: auto 1800px;
+}
+table {
+	width: 80%;
+}
+#elem tr td {
+	width: 5vw;
+	height: 2.5vw;
+}
+.name {
+	font-size: 1.4vw;
+	text-align: center;
+	font-weight: bold;
+}
+.nbr {
+	font-size: 0.7vw;
+	text-align: left;
+}
+.weight {
+	font-size: 0.6vw;
+	text-align: right;
+}
+h1 {
+	color: aquamarine;
+	font-size: 2vw;
+	text-align: center;
+ }
