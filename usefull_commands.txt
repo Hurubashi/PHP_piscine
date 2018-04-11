@@ -1,0 +1,7 @@
+ln -s ~/Library/Containers/MAMP/apache2/htdocs ~/Desktop/htdocs
+
+
+
+How To > Change the password of the MySQL root user
+
+/Applications/MAMP/Library/bin/mysqladmin -u root -p password [NewPassword]
