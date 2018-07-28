@@ -1,0 +1,1 @@
+DELETE FROM db_mrybak.ft_table  WHERE id < 6;
